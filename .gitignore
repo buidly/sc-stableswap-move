@@ -1,1 +1,5 @@
 build/*
+.vscode/*
+interaction/*
+node_modules/*
+**/build/*
